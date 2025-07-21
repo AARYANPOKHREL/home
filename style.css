@@ -64,6 +64,11 @@ body{
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
+.learnm a:hover {
+    background-color: #da70d6;
+    cursor: pointer;
+}
+
 .learnm:hover {
     background-color: #da70d6;
     cursor: pointer;
